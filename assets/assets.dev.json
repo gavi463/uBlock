@@ -1,31 +1,9 @@
 {
-	"assets.json": {
-		"content": "internal",
-		"updateAfter": 13,
-		"contentURL": [
-			"https://raw.githubusercontent.com/gorhill/uBlock/master/assets/assets.dev.json",
-			"assets/assets.dev.json"
-		],
-		"cdnURLs": [
-			"https://ublockorigin.github.io/uAssetsCDN/ublock/assets.dev.json",
-			"https://ublockorigin.pages.dev/ublock/assets.dev.json",
-			"https://cdn.jsdelivr.net/gh/gorhill/uBlock@master/assets/assets.dev.json",
-			"https://cdn.statically.io/gh/gorhill/uBlock/master/assets/assets.dev.json"
-		]
-	},
-	"public_suffix_list.dat": {
-		"content": "internal",
+
 		"updateAfter": 19,
 		"contentURL": [
 			"https://publicsuffix.org/list/public_suffix_list.dat",
-			"assets/thirdparties/publicsuffix.org/list/effective_tld_names.dat"
-		]
-	},
-	"ublock-badlists": {
-		"content": "internal",
-		"updateAfter": 29,
-		"contentURL": [
-			"https://ublockorigin.github.io/uAssets/filters/badlists.txt",
+			"asset
 			"assets/ublock/badlists.txt"
 		],
 		"cdnURLs": [
